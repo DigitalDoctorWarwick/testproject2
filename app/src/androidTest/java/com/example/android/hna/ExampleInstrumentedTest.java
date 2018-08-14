@@ -1,4 +1,4 @@
-package com.example.android.justjava;
+package com.example.android.hna;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

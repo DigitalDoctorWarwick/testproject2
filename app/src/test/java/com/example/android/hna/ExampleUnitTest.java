@@ -1,4 +1,4 @@
-package com.example.android.justjava;
+package com.example.android.hna;
 
 import org.junit.Test;
 
